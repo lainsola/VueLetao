@@ -53,12 +53,12 @@
 
                       <div class="total-frame">
                         <ul>
-                          <li class="total-title"><a href="#">昨日|访问次数</a></li>
+                          <li class="total-title"><a href="#">昨日|全站日活</a></li>
                           <li class="total-time">2019-03-11<span>~</span>2019-03-11|昨日</li>
                           <li class="total-heji">3.11（日）</li>
-                          <li><span class="total-num-size">7178</span>次</li>
+                          <li><span class="total-num-size">47451</span>次</li>
                           <li>
-                            <span class="color-success" style="font-size: 14px">+3.62%</span>
+                            <span class="color-success" style="font-size: 14px">+11.62%</span>
                             <span style="color: #C0C4CC;font-size: 14px">同比昨日</span>
                           </li>
                         </ul>
@@ -68,12 +68,12 @@
 
                       <div class="total-frame">
                         <ul>
-                          <li class="total-title"><a href="#">昨日|访问次数</a></li>
+                          <li class="total-title"><a href="#">昨日|下单数</a></li>
                           <li class="total-time">2019-03-11<span>~</span>2019-03-11|昨日</li>
                           <li class="total-heji">3.11（日）</li>
                           <li><span class="total-num-size">7178</span>次</li>
                           <li>
-                            <span class="color-success" style="font-size: 14px">+3.62%</span>
+                            <span class="color-success" style="font-size: 14px">+4.81%</span>
                             <span style="color: #C0C4CC;font-size: 14px">同比昨日</span>
                           </li>
                         </ul>
@@ -83,12 +83,12 @@
 
                       <div class="total-frame">
                         <ul>
-                          <li class="total-title"><a href="#">昨日|访问次数</a></li>
+                          <li class="total-title"><a href="#">昨日|客单价</a></li>
                           <li class="total-time">2019-03-11<span>~</span>2019-03-11|昨日</li>
                           <li class="total-heji">3.11（日）</li>
-                          <li><span class="total-num-size">7178</span>次</li>
+                          <li><span class="total-num-size">117</span>次</li>
                           <li>
-                            <span class="color-success" style="font-size: 14px">+3.62%</span>
+                            <span class="color-success" style="font-size: 14px">+1.16%</span>
                             <span style="color: #C0C4CC;font-size: 14px">同比昨日</span>
                           </li>
                         </ul>
@@ -99,12 +99,12 @@
 
                       <div class="total-frame">
                         <ul>
-                          <li class="total-title"><a href="#">昨日|访问次数</a></li>
+                          <li class="total-title"><a href="#">昨日|下单数</a></li>
                           <li class="total-time">2019-03-11<span>~</span>2019-03-11|昨日</li>
                           <li class="total-heji">3.11（日）</li>
-                          <li><span class="total-num-size">7178</span>次</li>
+                          <li><span class="total-num-size">3503</span>次</li>
                           <li>
-                            <span class="color-success" style="font-size: 14px">+3.62%</span>
+                            <span class="color-success" style="font-size: 14px">+7.42%</span>
                             <span style="color: #C0C4CC;font-size: 14px">同比昨日</span>
                           </li>
                         </ul>
@@ -117,9 +117,9 @@
                           <li class="total-title"><a href="#">昨日|访问次数</a></li>
                           <li class="total-time">2019-03-11<span>~</span>2019-03-11|昨日</li>
                           <li class="total-heji">3.11（日）</li>
-                          <li><span class="total-num-size">7178</span>次</li>
+                          <li><span class="total-num-size">215178</span>次</li>
                           <li>
-                            <span class="color-success" style="font-size: 14px">+3.62%</span>
+                            <span class="color-danger" style="font-size: 14px">-1.46%</span>
                             <span style="color: #C0C4CC;font-size: 14px">同比昨日</span>
                           </li>
                         </ul>
@@ -281,7 +281,7 @@
                   <div class="total-frame echarts-title">
                     <ul>
                       <li class="total-title">昨日|新用户访问占比</li>
-                      <li class="total-time">2019-03-01<span>~</span>2019-03-10|上线至今</li>
+                      <li class="total-time">2019-03-01|昨日</li>
                       <li>
                             <span class="color-danger" style="font-size: 14px">-10%</span>
                             <span style="color: #C0C4CC;font-size: 14px">同比昨日</span>
@@ -298,7 +298,7 @@
                
                   <div class="total-frame echarts-title">
                     <ul>
-                      <li class="total-title">访问终端分布国家</li>
+                      <li class="total-title">昨日|终端用户访问分布</li>
                       <li class="total-time">2018-01-01<span>~</span>2019-03-10|昨日</li>
                       <li>
                             <span class="color-danger" style="font-size: 14px">-10%</span>
@@ -332,7 +332,7 @@
                
                   <div class="total-frame echarts-title">
                     <ul>
-                      <li class="total-title">小程序用户偏好分类</li>
+                      <li class="total-title">访问终端分布国家</li>
                       <li class="total-time">2019-03-10|昨日</li>
                     </ul>                           
                   </div>
